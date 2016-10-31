@@ -1,0 +1,12 @@
+.th-font{
+  font-family: 'Kanit', sans-serif;
+}
+
+.fw300{ font-weight: 300; }
+
+.fz16{ font-size: 16px; }
+.fz18{ font-size: 18px; }
+.fz20{ font-size: 20px; }
+
+#nav>li>a.fz18{ font-size: 18px; font-weight: 300; }
+.custom-ul>li>a.fz18{ font-size: 18px; font-weight: 300; }
